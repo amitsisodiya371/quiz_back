@@ -30,9 +30,9 @@ module.exports = User;
 
 
 // {
-//     "name":"amit",
-//     "email":"amit@gmail.com",
+//     "name":"amt",
+//     "email":"iuhgit@gmail.com",
 //     "password":"1234",
-//     "mCode":"1234",
+//     "gender":"m",
 //     "mobile":"123456789"
 //    }
